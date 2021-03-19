@@ -1,31 +1,18 @@
 ************
-Installation
+Instalación
 ************
 
 
 Python Package
 ==============
 
-Install package with:
+Para instalar el paquete creado deberás de correr el siguiente comando:
   
 .. code-block:: bash
 
-   #execute next line being in `src` dir where `setup.py` file is 
-   #after cloning repo:
-   #https://github.com/palmoreck/example-python-package-and-sphinx-doc
-   pip install .
+   pip install ffmaxflow
 
-or in editable mode:
+Aquí url de PyPi
 
-.. code-block:: bash
+https://pypi.org/project/ffmaxflow/
 
-   #execute next line being in `src` dir where `setup.py` file is 
-   #after cloning repo:
-   #https://github.com/palmoreck/example-python-package-and-sphinx-doc
-   pip install -e .
-
-or with url:
-
-.. code-block:: bash
-
-    pip install "git+https://github.com/palmoreck/example-python-package-and-sphinx-doc.git#egg=opt2&subdirectory=src"

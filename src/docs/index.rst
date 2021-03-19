@@ -1,21 +1,26 @@
-.. "opt2" documentation master file, created by
-   sphinx-quickstart on Sun Mar  7 19:37:05 2021.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+Algoritmo Ford-Fulkerson
+==========================================
 
-Welcome to "opt2"'s documentation!
-==================================
+En esta documentación se explican los módulos y funciones creados para resolver el problema de oprimización de flujo máximo visto en el curso de oprimización primavera 2021.
+Como el nombre del proyecto lo indica, resolveremos este problema con el Algoritmo de Ford Fulkerson.
 
-¡Hola mundo!
+Integrantes:
+	- Dira Martínez
+	- Iván Salgado
+	- Ana Torres
 
- .. toctree::
+
+
+
+Contenido:
+
+.. toctree::
    :maxdepth: 1
    :caption: Contents:
 
    installation
-   functions_autosummary
-   integration/modules_autosummary
-
+   functions
+   modules
 
 Indices and tables
 ==================
@@ -23,3 +28,5 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+
